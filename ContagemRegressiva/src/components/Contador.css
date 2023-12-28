@@ -7,7 +7,7 @@
 }
 
 .counter-number{
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.623);
     color: aliceblue;
     padding: 1rem;
     border-radius: 0.7rem;
