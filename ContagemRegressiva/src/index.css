@@ -22,7 +22,7 @@ body{
 }
 
 .container{
-  min-width: 40%;
+  min-width: 45%;
   min-height: 150px;
   display: flex;
   flex-direction: column;
